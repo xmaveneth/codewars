@@ -61,5 +61,4 @@ def times(func):
 def divided_by(func):
     return '//' + func
 
-print(zero(plus(nine())))
-print(six(divided_by(two())))
+# https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39
